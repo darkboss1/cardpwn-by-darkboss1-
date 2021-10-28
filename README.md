@@ -8,7 +8,6 @@
   <br>
   <b>Available in</b>
   <br>
-  <>
 </p>
 
 <p align="center">
